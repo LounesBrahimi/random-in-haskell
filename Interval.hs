@@ -1,3 +1,4 @@
+-- Brahimi Lounes
 -- Function allowing to generate an Integer in a given interval
 randomInInterval :: Integer -> Integer -> Integer
 randomInInterval min max =
